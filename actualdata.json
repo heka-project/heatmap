@@ -1,0 +1,1602 @@
+[
+  {
+    "ID": 1,
+    "lat": 1.30325847,
+    "long": 103.8952478,
+    "quantity": 69,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 2,
+    "lat": 1.35710526,
+    "long": 103.8175967,
+    "quantity": 39,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 3,
+    "lat": 1.26775704,
+    "long": 103.8292835,
+    "quantity": 78,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 4,
+    "lat": 1.32907157,
+    "long": 103.7414904,
+    "quantity": 94,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 5,
+    "lat": 1.39866072,
+    "long": 103.8867075,
+    "quantity": 60,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 6,
+    "lat": 1.42164663,
+    "long": 103.8112465,
+    "quantity": 99,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 7,
+    "lat": 1.34457605,
+    "long": 103.800258,
+    "quantity": 43,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 8,
+    "lat": 1.39523442,
+    "long": 103.780043,
+    "quantity": 70,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 9,
+    "lat": 1.30669779,
+    "long": 103.8524365,
+    "quantity": 1,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 10,
+    "lat": 1.27040349,
+    "long": 103.8045974,
+    "quantity": 39,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 11,
+    "lat": 1.33945678,
+    "long": 103.7608555,
+    "quantity": 91,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 12,
+    "lat": 1.38455146,
+    "long": 103.8440894,
+    "quantity": 67,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 13,
+    "lat": 1.35377237,
+    "long": 103.7543194,
+    "quantity": 13,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 14,
+    "lat": 1.34813224,
+    "long": 103.8067406,
+    "quantity": 82,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 15,
+    "lat": 1.29833487,
+    "long": 103.8671465,
+    "quantity": 78,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 16,
+    "lat": 1.36305797,
+    "long": 103.8629494,
+    "quantity": 49,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 17,
+    "lat": 1.3571559,
+    "long": 103.988,
+    "quantity": 92,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 18,
+    "lat": 1.3051144,
+    "long": 103.9274,
+    "quantity": 6,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 19,
+    "lat": 1.30132387,
+    "long": 103.7215459,
+    "quantity": 7,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 20,
+    "lat": 1.44390026,
+    "long": 103.8515866,
+    "quantity": 52,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 21,
+    "lat": 1.326309,
+    "long": 103.939,
+    "quantity": 78,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 22,
+    "lat": 1.3346394,
+    "long": 103.95422,
+    "quantity": 94,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 23,
+    "lat": 1.34119905,
+    "long": 103.7113478,
+    "quantity": 27,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 24,
+    "lat": 1.29037542,
+    "long": 103.7839476,
+    "quantity": 55,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 25,
+    "lat": 1.40908118,
+    "long": 103.8942269,
+    "quantity": 21,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 26,
+    "lat": 1.33509223,
+    "long": 103.7889904,
+    "quantity": 81,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 27,
+    "lat": 1.27911198,
+    "long": 103.8385404,
+    "quantity": 89,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 28,
+    "lat": 1.3833061,
+    "long": 103.946434,
+    "quantity": 85,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 29,
+    "lat": 1.31325871,
+    "long": 103.7808336,
+    "quantity": 43,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 30,
+    "lat": 1.30681727,
+    "long": 103.6990492,
+    "quantity": 86,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 31,
+    "lat": 1.41088342,
+    "long": 103.8867558,
+    "quantity": 7,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 32,
+    "lat": 1.43827414,
+    "long": 103.8006638,
+    "quantity": 27,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 33,
+    "lat": 1.37133896,
+    "long": 103.7277412,
+    "quantity": 88,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 34,
+    "lat": 1.3240084,
+    "long": 103.8976182,
+    "quantity": 45,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 35,
+    "lat": 1.34641008,
+    "long": 103.9280962,
+    "quantity": 11,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 36,
+    "lat": 1.4029606,
+    "long": 103.8351096,
+    "quantity": 64,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 37,
+    "lat": 1.40828261,
+    "long": 103.8814351,
+    "quantity": 73,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 38,
+    "lat": 1.43756655,
+    "long": 103.7347046,
+    "quantity": 58,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 39,
+    "lat": 1.3863522,
+    "long": 103.89869,
+    "quantity": 46,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 40,
+    "lat": 1.28234547,
+    "long": 103.8469476,
+    "quantity": 88,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 41,
+    "lat": 1.37355614,
+    "long": 103.7265647,
+    "quantity": 12,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 42,
+    "lat": 1.33124494,
+    "long": 103.9341848,
+    "quantity": 69,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 43,
+    "lat": 1.39565892,
+    "long": 103.8874427,
+    "quantity": 81,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 44,
+    "lat": 1.42837877,
+    "long": 103.7249963,
+    "quantity": 73,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 45,
+    "lat": 1.27770695,
+    "long": 103.7811103,
+    "quantity": 94,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 46,
+    "lat": 1.3463923,
+    "long": 103.7060928,
+    "quantity": 62,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 47,
+    "lat": 1.337426,
+    "long": 103.6645425,
+    "quantity": 27,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 48,
+    "lat": 1.385911,
+    "long": 103.883641,
+    "quantity": 69,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 49,
+    "lat": 1.36809047,
+    "long": 103.8294731,
+    "quantity": 53,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 50,
+    "lat": 1.31047417,
+    "long": 103.8633627,
+    "quantity": 85,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 51,
+    "lat": 1.31932961,
+    "long": 103.7627707,
+    "quantity": 90,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 52,
+    "lat": 1.40227299,
+    "long": 103.8293394,
+    "quantity": 34,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 53,
+    "lat": 1.33754754,
+    "long": 103.938398,
+    "quantity": 36,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 54,
+    "lat": 1.40865659,
+    "long": 103.7510202,
+    "quantity": 21,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 55,
+    "lat": 1.30004318,
+    "long": 103.9055209,
+    "quantity": 55,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 56,
+    "lat": 1.35526132,
+    "long": 103.7577245,
+    "quantity": 31,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 57,
+    "lat": 1.35654902,
+    "long": 103.7455296,
+    "quantity": 83,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 58,
+    "lat": 1.26689119,
+    "long": 103.8249342,
+    "quantity": 36,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 59,
+    "lat": 1.4528664,
+    "long": 103.8029515,
+    "quantity": 78,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 60,
+    "lat": 1.34097959,
+    "long": 103.6908871,
+    "quantity": 16,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 61,
+    "lat": 1.3079068,
+    "long": 103.750427,
+    "quantity": 71,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 62,
+    "lat": 1.35070137,
+    "long": 103.6903889,
+    "quantity": 27,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 63,
+    "lat": 1.32757148,
+    "long": 103.789266,
+    "quantity": 10,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 64,
+    "lat": 1.31613844,
+    "long": 103.7411252,
+    "quantity": 29,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 65,
+    "lat": 1.3857295,
+    "long": 103.7220222,
+    "quantity": 83,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 66,
+    "lat": 1.4391981,
+    "long": 103.7364669,
+    "quantity": 98,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 67,
+    "lat": 1.31922879,
+    "long": 103.7898722,
+    "quantity": 22,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 68,
+    "lat": 1.36151667,
+    "long": 103.8616703,
+    "quantity": 28,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 69,
+    "lat": 1.44071506,
+    "long": 103.7480855,
+    "quantity": 79,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 70,
+    "lat": 1.41250479,
+    "long": 103.8239236,
+    "quantity": 2,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 71,
+    "lat": 1.35254573,
+    "long": 103.7479828,
+    "quantity": 60,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 72,
+    "lat": 1.35526132,
+    "long": 103.8333391,
+    "quantity": 74,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 73,
+    "lat": 1.35654902,
+    "long": 103.7054404,
+    "quantity": 84,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 74,
+    "lat": 1.33482264,
+    "long": 103.7184888,
+    "quantity": 12,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 75,
+    "lat": 1.32450044,
+    "long": 103.9311984,
+    "quantity": 69,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 76,
+    "lat": 1.35254573,
+    "long": 103.7921653,
+    "quantity": 10,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 77,
+    "lat": 1.33482264,
+    "long": 103.9304627,
+    "quantity": 58,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 78,
+    "lat": 1.32450044,
+    "long": 103.7414553,
+    "quantity": 86,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 79,
+    "lat": 1.33470089,
+    "long": 103.7885778,
+    "quantity": 50,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 80,
+    "lat": 1.32830495,
+    "long": 103.7941419,
+    "quantity": 74,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 81,
+    "lat": 1.33470089,
+    "long": 103.9006003,
+    "quantity": 93,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 82,
+    "lat": 1.33175176,
+    "long": 103.7736691,
+    "quantity": 83,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 83,
+    "lat": 1.29671681,
+    "long": 103.7306758,
+    "quantity": 64,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 84,
+    "lat": 1.29606117,
+    "long": 103.8321515,
+    "quantity": 52,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 85,
+    "lat": 1.30194177,
+    "long": 103.7052395,
+    "quantity": 11,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 86,
+    "lat": 1.29052765,
+    "long": 103.7070331,
+    "quantity": 79,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 87,
+    "lat": 1.27604719,
+    "long": 103.7826004,
+    "quantity": 18,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 88,
+    "lat": 1.46714472,
+    "long": 103.8031628,
+    "quantity": 54,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 89,
+    "lat": 1.36958409,
+    "long": 103.7385934,
+    "quantity": 66,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 90,
+    "lat": 1.32830495,
+    "long": 103.9589674,
+    "quantity": 50,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 91,
+    "lat": 1.37848182,
+    "long": 103.9154258,
+    "quantity": 6,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 92,
+    "lat": 1.43006835,
+    "long": 103.7666897,
+    "quantity": 3,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 93,
+    "lat": 1.37928564,
+    "long": 103.8506735,
+    "quantity": 53,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 94,
+    "lat": 1.29262881,
+    "long": 103.8719679,
+    "quantity": 94,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 95,
+    "lat": 1.31575857,
+    "long": 103.9149904,
+    "quantity": 10,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 96,
+    "lat": 1.33175176,
+    "long": 103.9424124,
+    "quantity": 61,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 97,
+    "lat": 1.33506895,
+    "long": 103.698284,
+    "quantity": 22,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 98,
+    "lat": 1.41297538,
+    "long": 103.8613761,
+    "quantity": 3,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 99,
+    "lat": 1.37044849,
+    "long": 103.7920248,
+    "quantity": 6,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 100,
+    "lat": 1.372834,
+    "long": 103.7777123,
+    "quantity": 20,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 101,
+    "lat": 1.32165435,
+    "long": 103.7503842,
+    "quantity": 24,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 102,
+    "lat": 1.29606117,
+    "long": 103.9068994,
+    "quantity": 22,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 103,
+    "lat": 1.280753,
+    "long": 103.8363308,
+    "quantity": 11,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 104,
+    "lat": 1.41633231,
+    "long": 103.7220115,
+    "quantity": 38,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 105,
+    "lat": 1.36446055,
+    "long": 103.6620625,
+    "quantity": 52,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 106,
+    "lat": 1.34732798,
+    "long": 103.6566197,
+    "quantity": 64,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 107,
+    "lat": 1.39707781,
+    "long": 103.8597317,
+    "quantity": 32,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 108,
+    "lat": 1.38862975,
+    "long": 103.8230612,
+    "quantity": 37,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 109,
+    "lat": 1.31814637,
+    "long": 103.7001748,
+    "quantity": 8,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 110,
+    "lat": 1.34970436,
+    "long": 103.7341638,
+    "quantity": 71,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 111,
+    "lat": 1.3837666,
+    "long": 103.7742845,
+    "quantity": 32,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 112,
+    "lat": 1.35737488,
+    "long": 103.7203051,
+    "quantity": 17,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 113,
+    "lat": 1.3227225,
+    "long": 103.7494791,
+    "quantity": 41,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 114,
+    "lat": 1.34724847,
+    "long": 103.7921572,
+    "quantity": 87,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 115,
+    "lat": 1.3287139,
+    "long": 103.7192922,
+    "quantity": 89,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 116,
+    "lat": 1.34082158,
+    "long": 103.6879999,
+    "quantity": 88,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 117,
+    "lat": 1.4261175,
+    "long": 103.7345876,
+    "quantity": 98,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 118,
+    "lat": 1.33524363,
+    "long": 103.7291753,
+    "quantity": 14,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 119,
+    "lat": 1.32856629,
+    "long": 103.6907616,
+    "quantity": 95,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 120,
+    "lat": 1.34725342,
+    "long": 103.7726884,
+    "quantity": 84,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 121,
+    "lat": 1.41057164,
+    "long": 103.8023925,
+    "quantity": 50,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 122,
+    "lat": 1.29193005,
+    "long": 103.7772642,
+    "quantity": 41,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 123,
+    "lat": 1.34946946,
+    "long": 103.6954502,
+    "quantity": 83,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 124,
+    "lat": 1.28300906,
+    "long": 103.8618375,
+    "quantity": 29,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 125,
+    "lat": 1.30466142,
+    "long": 103.9002523,
+    "quantity": 48,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 126,
+    "lat": 1.41243642,
+    "long": 103.73021,
+    "quantity": 89,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 127,
+    "lat": 1.3466172,
+    "long": 103.8483821,
+    "quantity": 80,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 128,
+    "lat": 1.26743645,
+    "long": 103.8448768,
+    "quantity": 1,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 129,
+    "lat": 1.3356307,
+    "long": 103.9348644,
+    "quantity": 70,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 130,
+    "lat": 1.35405258,
+    "long": 103.6894206,
+    "quantity": 66,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 131,
+    "lat": 1.3514805,
+    "long": 103.7201614,
+    "quantity": 31,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 132,
+    "lat": 1.44940651,
+    "long": 103.8059921,
+    "quantity": 15,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 133,
+    "lat": 1.32691027,
+    "long": 103.7203396,
+    "quantity": 76,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 134,
+    "lat": 1.35641266,
+    "long": 103.6983502,
+    "quantity": 88,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 135,
+    "lat": 1.36139916,
+    "long": 103.6747294,
+    "quantity": 45,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 136,
+    "lat": 1.34430722,
+    "long": 103.6646591,
+    "quantity": 63,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 137,
+    "lat": 1.35060285,
+    "long": 103.695045,
+    "quantity": 99,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 138,
+    "lat": 1.37175172,
+    "long": 103.6861665,
+    "quantity": 32,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 139,
+    "lat": 1.32202395,
+    "long": 103.6856521,
+    "quantity": 81,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 140,
+    "lat": 1.30429064,
+    "long": 103.6327613,
+    "quantity": 62,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 141,
+    "lat": 1.31206644,
+    "long": 103.634531,
+    "quantity": 33,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 142,
+    "lat": 1.28450676,
+    "long": 103.647955,
+    "quantity": 95,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 143,
+    "lat": 1.33834365,
+    "long": 103.9895105,
+    "quantity": 20,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 144,
+    "lat": 1.35132932,
+    "long": 103.9637008,
+    "quantity": 7,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 145,
+    "lat": 1.35135971,
+    "long": 103.9692968,
+    "quantity": 66,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 146,
+    "lat": 1.36046101,
+    "long": 103.9875802,
+    "quantity": 43,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 147,
+    "lat": 1.36299646,
+    "long": 103.9852832,
+    "quantity": 33,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 148,
+    "lat": 1.32871854,
+    "long": 103.9967581,
+    "quantity": 95,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 149,
+    "lat": 1.35293707,
+    "long": 103.9627198,
+    "quantity": 24,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 150,
+    "lat": 1.31838616,
+    "long": 103.9869927,
+    "quantity": 38,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 151,
+    "lat": 1.33581791,
+    "long": 103.9647809,
+    "quantity": 59,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 152,
+    "lat": 1.35180535,
+    "long": 104.0048933,
+    "quantity": 84,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 153,
+    "lat": 1.32154637,
+    "long": 103.9728079,
+    "quantity": 7,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 154,
+    "lat": 1.37035221,
+    "long": 103.9502068,
+    "quantity": 54,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 155,
+    "lat": 1.38210682,
+    "long": 103.9430347,
+    "quantity": 3,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 156,
+    "lat": 1.38359719,
+    "long": 103.9412406,
+    "quantity": 27,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 157,
+    "lat": 1.37198087,
+    "long": 103.766647,
+    "quantity": 50,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 158,
+    "lat": 1.36062047,
+    "long": 103.7635187,
+    "quantity": 11,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 159,
+    "lat": 1.36074129,
+    "long": 103.7766695,
+    "quantity": 34,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 160,
+    "lat": 1.35143845,
+    "long": 103.7485697,
+    "quantity": 70,
+    "boolean": "no",
+    "": ""
+  },
+  {
+    "ID": 161,
+    "lat": 1.34722322,
+    "long": 103.7703452,
+    "quantity": 43,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": 162,
+    "lat": 1.3575562,
+    "long": 103.7586766,
+    "quantity": 84,
+    "boolean": "yes",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  },
+  {
+    "ID": "",
+    "lat": "",
+    "long": "",
+    "quantity": "",
+    "boolean": "",
+    "": ""
+  }
+]
